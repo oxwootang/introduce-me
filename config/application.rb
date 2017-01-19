@@ -1,7 +1,7 @@
 require_relative 'boot'
 
 require 'koala'
-
+require 'dotenv'
 require "rails"
 # Pick the frameworks you want:
 require "active_model/railtie"
